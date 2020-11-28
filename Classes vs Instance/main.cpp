@@ -39,7 +39,7 @@ Complete the method definitions provided in the editor so they meet the specific
  
 *** int main() was provided and I could not make any changes to it***
  
-Classes used to take me quite some time to understand, but onstant reinforcement and challenges have helped me greatly. 
+Classes used to take me quite some time to understand, but onstant reinforcement and challenges have helped me greatly.
 
  */
 
